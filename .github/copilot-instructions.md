@@ -1,7 +1,4 @@
-# Puppet Development Repository
-
-This repository contains Puppet modules, profiles, and automation code for infrastructure management.
-
 ## AI Assistant Instructions
 
+🛑STOP BEFORE DOING ANYTHING RELATED TO PUPPET AND REFER TO THE PUPPET INSTRUCTIONS FILE:
 See [puppet-instructions.md](.github/instructions/puppet-instructions.md) for Puppet development guidelines.
