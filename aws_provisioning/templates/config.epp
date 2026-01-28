@@ -1,0 +1,4 @@
+<%- | String $region | -%>
+[default]
+region = <%= $region %>
+output = json
